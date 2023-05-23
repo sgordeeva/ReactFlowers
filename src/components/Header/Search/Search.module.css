@@ -1,0 +1,40 @@
+.root {
+  position: relative;
+}
+
+.input {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-left: 100px;
+  border: 1px solid rgb(192, 192, 192);
+  border-radius: 4px;
+  padding: 8px 20px;
+  padding-left: 36px;
+  width: 300px;
+  outline: none;
+  font-size: 16px;
+  color: rgb(61, 61, 61);
+}
+
+.clear {
+  width: 18px;
+  height: 18px;
+  opacity: 0.3;
+  position: absolute;
+  right: 11px;
+  top: 11px;
+  cursor: pointer;
+}
+
+.clear:hover {
+  opacity: 0.8;
+}
+
+.search {
+  width: 18px;
+  height: 18px;
+  opacity: 0.35;
+  position: absolute;
+  left: 110px;
+  top: 11px;
+  cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.root li {
+  display: inline-block;
+}
+
+.root a:hover {
+  background: #f76c5e;
+  color: white;
+}
+
+.root a {
+  line-height: 30px;
+  color: #f76c5e;
+  font-size: 20px;
+  border: 2px solid #f76c5e;
+  padding: 10px;
+  border-radius: 30px;
+  height: 30px;
+  width: 30px;
+  text-align: center;
+  margin-right: 10px;
+  cursor: pointer;
+}

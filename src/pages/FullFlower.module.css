@@ -1,0 +1,50 @@
+.root {
+  text-align: left;
+  display: flex;
+  min-height: 600px;
+}
+
+.image {
+  max-width: 400px;
+  margin-right: 86px;
+  object-fit: cover;
+}
+
+.name {
+  font-size: 32px;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+
+.params_title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #f76c5e;
+  margin-bottom: 5px;
+}
+
+.params_text {
+  font-size: 20px;
+  font-weight: 300;
+  margin-bottom: 35px;
+  white-space: pre;
+}
+
+.price {
+  color: #33645f;
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 35px;
+  position: absolute;
+  bottom: 10%;
+}
+
+.params {
+  position: relative;
+}
+
+.btn {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}

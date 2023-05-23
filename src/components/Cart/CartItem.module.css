@@ -1,0 +1,50 @@
+.item {
+  display: flex;
+  border-bottom: 1px solid #33645f9b;
+  padding: 25px 0;
+}
+
+.item img {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 100px;
+  margin-right: 60px;
+}
+
+.item {
+  align-items: center;
+}
+
+.info {
+  font-size: 20px;
+  font-weight: 300;
+  min-width: 300px;
+  text-align: left;
+}
+
+.price {
+  font-size: 20px;
+  font-weight: 600;
+  margin-right: 60px;
+}
+
+.item_count {
+  display: flex;
+  margin-right: 100px;
+  align-items: center;
+}
+
+.count {
+  padding: 0 15px 0 15px;
+}
+
+.count_btn {
+  border-radius: 30px;
+  border: none;
+  width: 30px;
+  height: 30px;
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: auto;
+}

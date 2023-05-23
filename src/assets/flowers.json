@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Bouket 1",
+    "price": 3090,
+    "image": "https://cdn.megaflowers.ru/upload/thumbs/500-600/9e/be/9ebed94c52b63cc1915ab745fbbf9d48.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bouket 2",
+    "price": 2190,
+    "image": "https://cdn.megaflowers.ru/upload/thumbs/500-600/4b/97/4b97dcfa8b545b6059298f3b771fab42.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bouket 3",
+    "price": 5852,
+    "image": "https://cdn.megaflowers.ru/upload/thumbs/500-600/e7/e9/e7e9b50e9e697c030d8a547ffc73eb4b.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Bouket 4",
+    "price": 9999,
+    "image": "https://cdn.megaflowers.ru/upload/thumbs/500-600/12/42/1242ebf36dce2f28dca2fae126ac401a.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bouket 5",
+    "price": 1160,
+    "image": "https://cdn.megaflowers.ru/upload/thumbs/500-600/98/6c/986c3c0fa4bb36e2451f25dd7e5789c0.jpg"
+  }
+]
